@@ -2,7 +2,8 @@
 > In valorant the economy is quite simple compared to other First Person Tactical Shooters. Especially helped by the fact that we can see the enemies economic status at the start of the round.
 
 ## Definitions
-- **Fullbuy**: A buy when you have large shield (for 1000) and a major rifle (Phantom/Vandal). This can vary but usually it is a buy worth more than 3900, and it usually includes full set of utility
+- **Full buy**: A buy when you have large shield (for 1000) and a major rifle (Phantom/Vandal). This can vary but usually it is a buy worth more than 3900, and it usually includes full set of utility
+- **Force buy**: A situation where the goal is to spend all excess money. Usually by buying lower tier weapons like cheaper rifles,SMGs and shotguns / Sheriff with a full set of utility.
 
 ## The basic round rotation
 There are 5 types of round:
@@ -43,3 +44,38 @@ And for last example **Sage**: You want to buy wall + shield or wall + ghost. Th
 > This round usually follows a lost pistol round or losses where team was gambling the next round.
 
 On an eco(n) round the team buys nothing but the essentials. This might be a pistol, small shield or utility. The goal is to have at minimum 4200 for next round so you can fullbuy.
+
+_How do I decide what to buy?_
+You take 2 factors into account:
+1. How much can you spend so that you have enough for next round?
+2. What will you use more?
+- Util this round and give your team better chance to win
+- Pistol this round if you know you can carry the round with sheriff only?
+- Better buy on next round (buy nothing)
+
+### Bonus rounds
+> Bonus rounds follow a round which you have won and have spare weaponry / util / shields
+
+On bonus round you try to buy as little as you can, udually you use what you have, replenish utility and perhaps buy a small/refill shield. The goal is next round when you should have at minimum 3900.
+
+**Most common buys include small shield + sheriff, sheriff alone or marshal**
+
+### Force rounds
+> When you team's economy is all over the place and you feel like you should equalize it while taking a risk to try to win this round. You force.
+
+_Why force? Why not eco?_
+Because a broken economy when some people can buy and some can't, is bad for everyone even whe it seems it should be fine. This creates weak links in the defense or gives less force to offense. If you force buy you still have a very very good chance of winning the round and salvaging enemy rifles. And if you lose you did economic damage to the opponent, forcing them to force one you drain them.
+
+_So what do you buy on a force?_
+1. You start with full set of utility. In valorant the utility spam is what wins most rounds.
+2. Then you see how much money you have, next is small shield. You want to start with small shield and upgrade it later if you can. 
+Then it comes to money. 
+3. This stage depends on how much you have left
+
+- If you have 1350 left for example I would personally decide between Marshal and Stinger deending on what agent I am playing. But someone might prefer a bucky. Either way you will have at least 250 left after buying a gun, so upgrade to refill shield. 
+- Next example is that you have 2200 left after buying small shield. In this scenario you have many options: Bandit/Sheriff+Marshal and upgeade to refill shield (if you had 2250 then full shield), Ares/Spectre and full shield upgrade or Judge and refill shield upgrade. 
+- Lastly, if you were rich and have 3500+ left after full util buy. Then you buy as if you were on a full buy round.
+
+## Hero buy
+There is a concept called "Hero buy". When your team has one player who has been outperforming everyone else including the enemy team, on save rounds you take the econ hit and get that person a weapon. They are very limely to get early picks and get traded, then the weapon is passed down to the next high performer until you either win or lose the round.
+Having a hero buy on a strong player can usually lead to winning an eco or force buy.
