@@ -24,3 +24,14 @@ Generally I see 3 rules for when to use ultimates:
 In valorant controlling the map tends to be tedious job for controller players to know where to smoke, how to push their smokes etc... 
 
 Certain ultimate abilities (like Sova's Hunter's Furt) can get space for free by fisplacing opponents. For this to occur the team needs to follow up and go take that space. When you hear the voiceline, you know enemies will be running all over the place
+
+### Synergy with another abilities or ultimates
+Often when you and your teammate have abilities that can be combined to create a vortex of death, you need to coordinate. You ultimate ability here is usually the key to a big play. 
+
+For example Astra's Gravity Well combined with Raze ult is a deadly combination. Or Neon's ultimate after every opponent has been hit with Breach's rolling thunder. 
+
+These synergies usually require a lot of coordination but pay off big.
+
+### To win a round
+> This is a lesson learnt in Overwatch.
+Losing a round is much bigger hit to your team both in the long run as well as for economy than investing your ultimate and winning. Even if it means hitting only one player. A round won is worth investing up to 3 ultimates depending on what state thr game is in.
