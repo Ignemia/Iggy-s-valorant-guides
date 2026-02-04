@@ -58,7 +58,7 @@ Muscle memory of the wrist takes over and places the crosshair with very good ac
 ***This step usually takes between 50-500ms from flick error detection to finishing the movement of the wrist. Once against depending on quality of muscle memory and distance to cover.***
 
 ### Trigger
-> This is the only part that can almost never be detected by anti-cheats and that's why so many trigger-bot cheats exist.
+> This is a very subjective part of aim and it very much depends on your brain processing speed. This subjectivity is why cheats often target this specific area and why is it so hard to detect them.
 
 You are on target. You don't need to adjust the aim anymore.
 Your brain has recognized none or close to none error or distance to target. It sends the signal to the finger (usually index finger) to press down on the mouse button (for right-hand laterity it is the left mouse button most often) and shoot.
