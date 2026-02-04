@@ -33,6 +33,6 @@ Clear the smoke with Fade's prowlers or Skye's dog. Maybe even just flash inside
 ## How to fight certain weapons
 - **Snipers:** The best way to defeat someone playing a sniper rifle is to get very close with an SMG or a shotgun and just eliminate them by run-and-gun strategy as they cannot shoot more than one bullet and if they are scoped their aim is slowed down meaning they cannot track you properly.
 - **SMGs:** Pump them full of lead with a shotgun if you are up close (good usecase for a shorty) or just take their head off with a sniper rifle from long range.
-- **Shotguns:** Avoid them and if you cannot stand as far from them as possible. Shotguns efficiency increases with the square of distance. The further you are the less effective a shotgun will be.
+- **Shotguns:** Avoid them and if you cannot stand as far from them as possible. Shotguns efficiency decreases with the square of distance. The further you are the less effective a shotgun will be.
 - **Machine guns/Heavies:** They have exactly one purpose. Supressive fire. Their goal is to hold and angle closed down. Wait until the spray stops and peek. Raw aim is extremely important as you have to hit a headshot before they can start the spray again.
 
