@@ -164,3 +164,14 @@ Go to range and:
 Get out of range and:
 - Do a Deathmatch - 1 with Sheriff, 1 with Guardian, 1 with Phantom and 1 with Vandal
 - Do a TDM
+
+## Movement and Aim
+> They do not go together. In most tactical fps games with any movement, your accuracy disappears
+
+Valorant unlike many other tactical FPS games does not bade inaccuracy on movement speed so any movement however slow will throw your aim off completely. 
+
+To counteract this most people employ counter-strafing.
+
+**Counter-strafing is a movement technique in which before you shoot you press the opposing movement key and as you stop (pretty much instantly) you fire with perfect firstshot accuracy.**
+
+In valorant counter-strafing in largely optional, as letting go of all movement keys stops your movement instantly. But this is dangerous because standing still for too long makes you an easy target. This is why counter-strafing as an optional technique allow you to stop for just a few milliseconds needed to fire the bullet and keep moving.
