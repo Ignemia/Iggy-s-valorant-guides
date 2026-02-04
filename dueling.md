@@ -26,7 +26,8 @@ If you recount all of this in the "end-of-round 1v1", you will be more prepared 
 This one is pretty self-explanatory since sniper rifles are designed for long range fights. Unless you are absolutely certain you can outaim any sniper on the opposing team with your Vandal or Guardian. You are taking a huge risk for very little reward.  
   
 **Don't push smokes without utility**
-> How many time has this happened? You ran into a smoke and a Clove or an Omen were inside with a judge and killed half the team in span of 3 seconds.  
+> How many time has this happened? You ran into a smoke and a Clove or an Omen were inside with a judge and killed half the team in span of 3 seconds.
+
 Clear the smoke with Fade's prowlers or Skye's dog. Maybe even just flash inside the smoke or reveal with Sova recon dart. But don't just blindly run in and push through  
 
 ## How to fight certain weapons
