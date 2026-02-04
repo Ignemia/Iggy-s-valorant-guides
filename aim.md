@@ -126,3 +126,41 @@ Crosshair placement and prefire are actually the corner-stone, the basis for cal
 > In counter-strike there are map trainers where bots are placed around the map in common angles and your job is to run through the map as fast as you can while prefiring them. The closest thing to this for vlaorant has been done in Aimlabs.
 
 This skill is largely map specific, but a simple rule of thumb to get you started would be, to aim at the furthest corner about 3 head widths away and maintain that crosshair position as you walk towards next conrner where you switch to 3 head-widths from that one.
+
+## How to practice aim
+> This is a very individual topic. I would recommend talking to an experienced coach to give you personalized aim training routine. But only doing warmup in Aimlabs and Range for total of 20 minutes a day will over time improve most of your aiming capabilities.
+
+### Rather than trying to tell you what you should do, I will tell you what not to do
+- Don't practice aim for more than 1 hour before playing
+- Don't ignore one aspect of aim "because I don't use it"
+- Don't skip short warmup before playing (if you want to improve)
+- Don't expect immediate results
+- Don't blindly copy someone else's warmup routine
+- Don't do range and aimlabs individually, combine them in your warmup/practice routine
+
+### Good things
+- Create an aimlabs playlist with tasks you feel like you should do better at
+- In the range try controlling spray for 8 bullets
+- Do a DM before going into comp (I know the valorant DM experience sucks but it's the best we got)
+- Find your natural sensitivity (I will make a tutorial for that later on - for now you can pay aimlabs to do it for you)
+- Don't rely on flick and flick practice alone
+- Find out your weaknesses using the Aimlabs Benchmarks
+
+### If I were to give you a warmup routine that is generalized (this means it covers everything but might not work for everyone)
+**In aimlabs**:
+- Do Spidershot
+- Do Spheretracks
+- Do Gridshot
+- Do Sixshot (ultimate)
+- Do Headshot (standard)
+
+**In valorant**:
+Go to range and:
+- Stand between the bots and with classic pick two, switch between then, when they die pick another 2. Try not to shoot if you are not sure that it is a headshot
+- Stand on the left of the bots and with ghost tap them for about 60-120 seconds
+- From the front of the bots try to clear one side and then the other with Sheriff 3 times
+- Go to the target outside and practice spray control for 8 bullets, 10 times with Phantom and 10 times with Vandal.
+
+Get out of range and:
+- Do a Deathmatch - 1 with Sheriff, 1 with Guardian, 1 with Phantom and 1 with Vandal
+- Do a TDM
