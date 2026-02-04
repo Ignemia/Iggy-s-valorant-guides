@@ -65,3 +65,64 @@ Your brain has recognized none or close to none error or distance to target. It 
 This is very fast and given all that precedes it, it should be.
 
 ***This step usually takes between 10-30ms. Could take longer if your mouse button is stiff.***
+
+## What makes up good aim?
+> This is a very difficult question to answer as there are 2 types of aim and I will try to cover both with their advantages and disadvatages and why you should use both in certain scenarios.
+
+Good aim is difficult thing to measure, many focus on reaction time or time to kill (TTK). Others look at headshot percentage, while other focus on whether you spray or shoot a single bullet to do the job. And all of them could be considered metrics for a good aim. But each of these metrics loads the question. One-tap stans will tell you that what is colloquially called "Calm aim" is the only way to go, while people who look at reaction time or TTK will firmly stand behind their flick training.  
+
+**So where is the middle ground?** As I stated before, I believe both are useful in certain scenarios. But what even is "calm aim"?
+
+### Calm aim vs Flicking
+As the section title suggests, calm aim is the opposite of flicking.  
+This does not mean you do not apply the same process as described before. You still have to go through all 5 stages, no doubt about that. But the difference is in the approach to those stages.  
+
+**Flicking**: When you use the flicking technique the point is to get from point A (starting point of your crosshair) to point B (target) as fast as possible with little to no regard for whether you hit body or head. As long as the target is eliminated quickly, the job is done. This is very important to do when you are being swarmed from multiple directions and you just need to eleviate the pressure.  
+**Calm aim**: Unlike in flicking the goal is not speed. This is good when clearing corners or in a 1v1. The goal is to preserve bullets and stay calm. Calm mind makes better decisions in the end. This is a technique you can see a lot of pros use on stage. They do not flick from corner to corner 10 times a second. They check one corner properly and shoot when it is needed. In most scenarios including 1v1 or clearing a corner you have time to go through step 2 and 4 of the aiming process slowly and carefully. Place the crosshair on the head. You don't need to do it in total of 250ms. Even pros usually have between 500ms to 2 seconds to do all of it, unless it is in the middle of an execute, abilities are flying everywhere and enemies are coming from all angles. In that case you switch back to flicking and focus on speed.
+
+**To answer the question of good aim, as I have hopefully made clear. It depends on situation. But you should strive to use calm aim as much as possible and hit as many headshots as possible. At the end of the day, the headshot is the fastest way to eliminate an opponent.**
+
+> But there is a second aspect to good aim. And that is **composition of aim**.
+### Composition of aim
+Generally we have 4 aspects of aim we can practice and each of them plays role in how well you can aim and how quickly and efficiently you eliminate your opponents
+1. Flicking (already described - will not go into it again)
+2. Tracking
+3. Spray control
+4. Pre-fire (pre-aim / crosshair placement)
+
+#### Tracking
+> Tracking is extremely underrated skill in tactical FPS games. It has seen it's rise in games like Overwatch and Marvel Rivals where spray is 100% acurate.
+
+**So what is it?** Tracking is your ability to keep crosshair on a moving target.
+When you flick you place your crosshair into one specific spot your target is standing in. But very rarely wil lyour target stay stationary throughout the encounter. So you need to be able to either reflick, or better track them as they move. Keep your crosshair on the head and as they stop moving to shoot, just click your mouse button and hit the head.
+
+#### Spray control
+> It is relevant even in valorant. But it makes for much larger part of aim in games like CS2, where spray follows predictable spray pattern. Valorant uses so called "Bloom system" which means that the spread of the bullets is random and gets more random with more bullets shot.
+
+Rarely will you hit the headshot in the first bullet. It happens, for better players more than for worse. But the most common amount of bullets shot before kill is confirmed is 3 or 4.  
+This reality bring into focus the ability to keep the bullets going where you need them to go.  
+Valorant guarantees 1st shot accuracy when standing still. And the next 2 subsequent shots should be relatively precise with regard to crosshair placement. So you have about 3 precise bullets that you don't need to adjust for.  
+*But after patch 11.08 where spraying was adjusted I would not count on it much. I have noticed large inaccuracy in second and third bullets after that update.*  
+
+**I cannot really explain verbally how to control the spray, but you can go into practice range and try to get a feel for it.**
+
+#### Pre-fire / Pre-aim / Crosshair placement
+> Extremely important and probably the only thing about aim even the coaches, that refuse to talk about aim, will tell you about.
+
+When you watch an iron player and then watch a clip from VCT you might evry quickly clock in a major difference.  
+**Where their crosshair is when they are not actively trying to shoot a target.**
+
+The iron player you have observed wil have been aiming at the ground or perhaps crotch level. And the crosshair is either in the middle of a wall or perhaps they are aiming at the pearly gates in heaven.  
+In the meantime, within the VCT clip you see the pros idling their crosshair at torso or head level, usually near or right next to a nearby corner.  
+
+**Why do pros do that?**
+> You can actually start observing similar crosshair placement patterns in as low as silver. But it really gets refined in diamond and ascendant.
+
+It is done because when you are about to peek a corner you want to eliminate step 2 of the aiming process. *Yes this is how it is eliminated*
+You want to be on target as soon as possible and shoot as fast as possible. And if an opponent is about peek you, if you are aiming at a wall and their crotch level, you will most likely die to any decent opponent. So you hold the corner you expect opponents to peek from and when they do, you arealy are in the stage 3 of aiming process, cutting out the imprecise flick stage.  
+
+Crosshair placement and prefire are actually the corner-stone, the basis for calm aim.
+
+> In counter-strike there are map trainers where bots are placed around the map in common angles and your job is to run through the map as fast as you can while prefiring them. The closest thing to this for vlaorant has been done in Aimlabs.
+
+This skill is largely map specific, but a simple rule of thumb to get you started would be, to aim at the furthest corner about 3 head widths away and maintain that crosshair position as you walk towards next conrner where you switch to 3 head-widths from that one.
