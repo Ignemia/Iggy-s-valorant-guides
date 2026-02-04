@@ -28,7 +28,7 @@ During this stage a lot of things have to happen:
 
 **This is a lot to do in matter of milliseconds, so this becomes the longest or second longest time of the whole aim process**
 
-***This part of the process usually takes between 50-150ms.***
+***This part of the process usually takes between 50-250ms.***
 
 ### Flick
 > The easiest part to practice, the most error prone mid-round, we eliminate it by proper crosshair placements and pre-fire
