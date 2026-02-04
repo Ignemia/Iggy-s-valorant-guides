@@ -166,12 +166,12 @@ Get out of range and:
 - Do a TDM
 
 ## Movement and Aim
-> They do not go together. In most tactical fps games with any movement, your accuracy disappears
+> They do not go together. If you shoot while moving, you will be inaccurate by definition.
 
-Valorant unlike many other tactical FPS games does not bade inaccuracy on movement speed so any movement however slow will throw your aim off completely. 
+VALORANT has a small **deadzone** where your gun counts as accurate, and outside of it you get **movement error**.
+*Also: even when you stop, guns still have weapon-specific first-shot accuracy, so "stopped" is consistent, not "perfect"*
 
-To counteract this most people employ counter-strafing.
+**Practical rule:** if you want reliable bullets, **stop first**, then shoot. The difference between walking and running can exist “on paper”, but in real fights it often feels like the same garbage because once you’re outside deadzone the game stops helping you.
 
-**Counter-strafing is a movement technique in which before you shoot you press the opposing movement key and as you stop (pretty much instantly) you fire with perfect firstshot accuracy.**
+I’ll cover **deadzoning, counter-strafing, strafe-shoot timing, and drills** in the movement article.
 
-In valorant counter-strafing in largely optional, as letting go of all movement keys stops your movement instantly. But this is dangerous because standing still for too long makes you an easy target. This is why counter-strafing as an optional technique allow you to stop for just a few milliseconds needed to fire the bullet and keep moving.
