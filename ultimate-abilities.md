@@ -39,5 +39,6 @@ When you are making the choice to use an ultimate to win a round consider 3 thin
 1. Is the opponent low enough to not require a headshot to kill (in which case don't use ultimate as they will be weary of you and any fight)  
 2. Is there any other way I can stall the enemy win-condition? (like running around the spike when it is planted, shoulder-peeking to stop the plant etc...)  
 3. Am I certain the ultimate will stall or actually hit the enemy in a way that will prevent them from reaching win condition?  
+  
 If all of these questions point towards "You can't be sure you win the round without using ultimate and I know where the opponent is so I will for sure hit them" - use it.
 
